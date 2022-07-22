@@ -12,3 +12,4 @@ hardhat.config.js
 /cache
 /assets
 package-lock.json
+.idea

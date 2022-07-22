@@ -1,0 +1,6 @@
+ecdsa
+fastecdsa
+sympy
+cairo-lang
+cairo-nile
+starknet-devnet
