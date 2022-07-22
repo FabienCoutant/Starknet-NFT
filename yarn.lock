@@ -367,7 +367,7 @@
     "@sentry/types" "5.30.0"
     tslib "^1.9.3"
 
-"@shardlabs/starknet-hardhat-plugin@^0.6.1":
+"@shardlabs/starknet-hardhat-plugin@^0.6.2":
   version "0.6.2"
   resolved "https://registry.yarnpkg.com/@shardlabs/starknet-hardhat-plugin/-/starknet-hardhat-plugin-0.6.2.tgz#63b183b7a44074b116a0ab5a2f56a8e85d31b427"
   integrity sha512-TGfAa2koy1Yhlpi5ENufcZqT4OVHL4hVKMnAcCcE/h4fIJGTdj5kIqJX1PT4ZZ5hyr//EwyqkiQqReEjEpzyVw==
@@ -1332,7 +1332,7 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.1.9:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.10.tgz#147d3a006da4ca3ce14728c7aefc287c367d7a6c"
   integrity sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==
 
-hardhat@^2.10.0:
+hardhat@^2.10.1:
   version "2.10.1"
   resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-2.10.1.tgz#37fdc0c96d6a5d16b322269db2ad8f9f115c4046"
   integrity sha512-0FN9TyCtn7Lt25SB2ei2G7nA2rZjP+RN6MvFOm+zYwherxLZNo6RbD8nDz88eCbhRapevmXqOiL2nM8INKsjmA==
