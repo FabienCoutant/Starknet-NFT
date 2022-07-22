@@ -1,5 +1,4 @@
 README.old.md
-hardhat.config.js
 .env*
 /test/*
 /starknet-artifacts
