@@ -7,8 +7,6 @@ README.old.md
 /librairies_externes
 /generateur/art-engine/
 /generateur/documentation/design/
-/contracts/*
 /cache
 /assets
-package-lock.json
 .idea
