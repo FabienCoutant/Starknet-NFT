@@ -1,6 +1,5 @@
 README.old.md
 .env*
-/test/*
 /starknet-artifacts
 /old
 /node_modules
