@@ -30,7 +30,10 @@ module.exports = {
     starknetArtifacts: "starknet-artifacts",
 
     // Les répertoires qui contiennent des librairies externes à votre projet.
-    cairoPaths: []
+    cairoPaths: [
+      './librairies_externes/imx-starknet',
+      './librairies_externes/cairo-lib/src'
+    ]
   },
   networks: {
     devnet: {
